@@ -1,0 +1,11 @@
+[package]
+name = "day2"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "day2"
+path = "main.rs"
+
+[dependencies]
+fancy-regex = "0.16.2"
